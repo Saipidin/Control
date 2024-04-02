@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\bin\Debug\net8.0\CHECK.exe
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\bin\Debug\net8.0\CHECK.deps.json
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\bin\Debug\net8.0\CHECK.runtimeconfig.json
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\bin\Debug\net8.0\CHECK.dll
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\bin\Debug\net8.0\CHECK.pdb
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\CHECK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\CHECK.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\CHECK.AssemblyInfo.cs
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\CHECK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\CHECK.sourcelink.json
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\CHECK.dll
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\refint\CHECK.dll
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\CHECK.pdb
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\CHECK.genruntimeconfig.cache
+C:\Users\User\Desktop\Repositor\Новая папка\CHECK\obj\Debug\net8.0\ref\CHECK.dll
